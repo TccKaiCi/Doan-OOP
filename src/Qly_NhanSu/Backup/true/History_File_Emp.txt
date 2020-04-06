@@ -1,0 +1,10 @@
+Tran Gia Huy have id: 3 change id room from 5 to 5
+Le Hai Son have id: 7 change id room from 5 to 5
+Nguyen Thi A have id: 10 change id room from 5 to 5
+Nguyen Van A have id: 2 change id room from 5 to 5
+Nguyen Thi A have id: 1 change id room from 5 to 5
+Tran Gia Huy have id: 5 change id room from 5 to 1
+Le Hai Son have id: 5 change id room from 5 to 1
+Nguyen Thi A have id: 5 change id room from 5 to 1
+Nguyen Van A have id: 5 change id room from 5 to 1
+Nguyen Thi A have id: 5 change id room from 5 to 1

@@ -1,0 +1,4 @@
+1|Admin|6|
+2|Thu ky|4|
+3|Nhan vien|5|
+4|Lao cong|3|

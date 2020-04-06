@@ -1,0 +1,10 @@
+﻿Nguyen Van A|25|Nam|phuong 3|quan|thanh pho|2|1|Giam doc|500.0|x|
+Tran Gia Huy|19|Nam|phuong 11|quan Go Vap|Ho Chi Minh|3|2|Admin|10.0|x|
+Tran Ngoc Hai|19|Nam|phuong 3|quan 1|Dong Nai|5|2|Admin|10.0|x|
+Tang Chi Chung|19|Nam|phuong 4|quan 2|Ho Chi Minh|6|4|Admin|400.0|x|
+Le Hai Son|19|Nam|phuong 5|quan 3|Ho Chi Minh|7|1|Nhan vien|100.0|x|
+Nguyen Thi A|18|Nu|phuong 2|quan|thanh pho|1|1|Thu ky|299.9| |
+Quach Dai Duc|19|Nam|phuong 2|quan 5|Dong Nai|4|3|Admin|9.0| |
+Le Thi A|24|Nu|phuong 6|quan 4|Ba Ria Vung Tau|8|3|Lao cong|9.0| |
+Le Van A|23|Nam|phuong 6|quan 5|Dak Lak|9|5|Bao ve|9.0| |
+Nguyen Thi A|18|Nu|phuong 2|quan|thanh pho|10|1|Thu ky|299.9| |

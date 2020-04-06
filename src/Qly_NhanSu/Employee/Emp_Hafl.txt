@@ -1,0 +1,6 @@
+Nguyen Thi A|18|Nu|phuong 2|quan|thanh pho|10|1|Thu ky|29.9| |
+Nguyen Van A|25|Nam|phuong 3|quan|thanh pho|2|1|Giam doc|50.0| |
+Nguyen Thi A|30|Nu|phuong 2|quan|thanh pho|1|1|Thu ky|30.0| |
+Le Hai Son|50|Nam|phuong 5|quan 3|Ho Chi Minh|7|1|Nhan vien|20.0| |
+Le Thi A|33|Nu|phuong 6|quan 4|Ba Ria Vung Tau|8|3|Lao cong|10.0| |
+Le Van A|44|Nam|phuong 6|quan 5|Dak Lak|9|2|Bao ve|10.0| |

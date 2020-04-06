@@ -1,0 +1,10 @@
+1|Thu ky|nguyenthia|123|
+2|Giam doc|nguyenvana|123|
+3|Admin|trangiahuy|123|
+4|Admin|quachdaiduc|123|
+5|Admin|tranngochai|123|
+6|Admin|tangchichung|123|
+7|Nhan vien|lehaison|123|
+8|Lao cong|lethia|123|
+9|Bao ve|levana|123|
+10|Thu ky|nguyenthia2|123|

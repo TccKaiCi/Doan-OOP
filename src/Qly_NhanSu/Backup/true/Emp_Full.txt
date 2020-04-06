@@ -1,0 +1,4 @@
+Tran Gia Huy|19|Nam|phuong 11|quan Go Vap|Ho Chi Minh|3|1|Admin|1111.0|x|
+Tran Ngoc Hai|19|Nam|phuong 3|quan 1|Dong Nai|5|2|Admin|10.0|x|
+Tang Chi Chung|19|Nam|phuong 4|quan 2|Ho Chi Minh|6|4|Admin|400.0|x|
+Quach Dai Duc|19|Nam|phuong 2|quan 5|Dong Nai|4|3|Admin|9.0|x|

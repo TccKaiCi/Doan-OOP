@@ -1,0 +1,6 @@
+10|Admin|
+1|Lao Cong|
+2|Nhan vien|
+3|Thu ky|
+5|Giam Doc|
+1|Bao ve|
