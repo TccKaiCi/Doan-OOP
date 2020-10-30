@@ -3,9 +3,7 @@
 ## Problems
 * Quản lý nhân sự
 ## Team
-| STT | Họ và Tên  |
-|--| ----- |
-| 1 | Tăng Chí Chung |
-| 2 | Quách Đại Đức |
-| 3 | Trần Ngọc Hải |
-| 4 | Trần Gia Huy |
+| STT | 1 | 2 | 3 | 4 |
+|--| ----- | ----- | ----- | ----- |
+| Họ và Tên | Tăng Chí Chung | Quách Đại Đức | Trần Ngọc Hải | Trần Gia Huy |
+
